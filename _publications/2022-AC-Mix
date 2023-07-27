@@ -8,7 +8,7 @@ venue: 'Computer Vision And Pattern Recognition (CVPR) 2022'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_On_the_Integration_of_Self-Attention_and_Convolution_CVPR_2022_paper.pdf'
 citation: 'Rui Lu, You. (2022). &quot; On the Integration of Self-Attention and Convolution. &quot; <i>CVPR 2022 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+An efficient and elegant way of combining convolution and self-attention.
 
 [Download paper here](https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_On_the_Integration_of_Self-Attention_and_Convolution_CVPR_2022_paper.pdf)
 

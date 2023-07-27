@@ -11,41 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Yao Class, IIIS, Tsinghua University, 2016 - 2021
+  * GPA 3.74 / 4.00, Rank 12 / 38
+* Ph.D. in Department of Automation, Tsinghua University, 2021 - Now
+  * GPA 4.00 / 4.00, Rank 1 / 156 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Intern Student
+  * University of California, Berkeley
+  * Topic: Indoor 3D detection & Pose Estimation
+  * Supervisor: Jitendra Malik
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021 - Fall 2022: Intern Researcher
+  * SenseTime Company
+  * Topic: Visual Backbones Research
+  * Supervisor: Xizhou Zhu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +41,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -23,7 +23,8 @@ News
 
 * Our paper "Efficienttrain: Exploring generalized curriculum learning for training visual backbones" is accepted by ICCV 2023!
 
-* Our paper "Provable General Function Class Representation Learning in Multitask Bandits and MDPs" is accepted as <p style="color:red; font-weight:bold;"> Spotlight </p> in NeuRIPS 2022!
+* Our paper "Provable General Function Class Representation Learning in Multitask Bandits and MDPs" is accepted as **<span style="color:red;">Spotlight</span>**
+ in NeuRIPS 2022!
 
 Contact Me
 ======

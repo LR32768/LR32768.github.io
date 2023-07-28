@@ -21,7 +21,9 @@ My research interests are broadly in Machine Learning, Computer Vision, and Rein
 News
 ======
 
-* Paper "Provable General Function Class Representation Learning in Multitask Bandits and MDPs" is accepted as <font color="red">**spotlight**</font> in NeuRIPS 2022!
+* Our paper "Efficienttrain: Exploring generalized curriculum learning for training visual backbones" is accepted by ICCV 2023!
+
+* Our paper "Provable General Function Class Representation Learning in Multitask Bandits and MDPs" is accepted as <p style="color:red; font-weight:bold;"> Spotlight </p> in NeuRIPS 2022!
 
 Contact Me
 ======

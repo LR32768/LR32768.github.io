@@ -21,5 +21,8 @@ My research interests are broadly in Machine Learning, Computer Vision, and Rein
 News
 ======
 
+* Paper "Provable General Function Class Representation Learning in Multitask Bandits and MDPs" is accepted as <font color="red">**spotlight**</font> in NeuRIPS 2022!
+
 Contact Me
 ======
+r-lu21 [AT] mails [dot] edu [dot] cn

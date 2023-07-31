@@ -28,4 +28,4 @@ News
 
 Contact Me
 ======
-r-lu21 [AT] mails [dot] edu [dot] cn
+r-lu21 [AT] mails [dot] tsinghua [dot] edu [dot] cn

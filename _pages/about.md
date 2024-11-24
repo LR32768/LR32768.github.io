@@ -12,7 +12,7 @@ This is the homepage of Rui Lu (卢睿) from Tsinghua University.
 
 Biography
 ======
-I am a third-year Ph.D. student at the Department of Automation at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/). Prior to that, I received my Bachelor's degree from Yao Class, the Institute of Interdisciplinary Information Sciences. I was lucky to be advised by [Yang Yuan](http://people.iiis.tsinghua.edu.cn/~yuanyang/en.html) for my undergraduate thesis. I was also a visiting student at Berkeley BAIR Center in 2019 under the supervision of [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/).
+I am a fourth-year Ph.D. student at the Department of Automation at Tsinghua University, advised by [Prof. Gao Huang](http://www.gaohuang.net/). Prior to that, I received my Bachelor's degree from Yao Class, the Institute of Interdisciplinary Information Sciences. I was lucky to be advised by [Yang Yuan](http://people.iiis.tsinghua.edu.cn/~yuanyang/en.html) for my undergraduate thesis. I was also a visiting student at Berkeley BAIR Center in 2019 under the supervision of [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/).
 
 Research Interest
 ======
@@ -20,6 +20,7 @@ My research interests are broadly in Machine Learning, Computer Vision, and Rein
 
 News
 ======
+* Our project [How Far is Video Generation from World Model?](https://phyworld.github.io/) is released and achieves more than 500k views on X(Twitter).
 
 * Our paper "Efficienttrain: Exploring generalized curriculum learning for training visual backbones" is accepted by ICCV 2023!
 
